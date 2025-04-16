@@ -1,8 +1,8 @@
-﻿  main.cpp
-  overlay.cpp
+﻿  overlay.cpp
+C:\Users\Gymnasiet\Desktop\gymnasiearbete\gymnasiearbete\overlay\overlay.cpp(459,10): warning C4551: function call missing argument list
   Generating code
-  0 of 522 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+  0 of 1847 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  gymnasiearbete.vcxproj -> C:\Users\Gymnasiet\source\repos\gymnasiearbete\x64\Release\gymnasiearbete.exe
+  gymnasiearbete.vcxproj -> C:\Users\Gymnasiet\Desktop\gymnasiearbete\x64\Release\gymnasiearbete.exe

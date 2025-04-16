@@ -42,6 +42,9 @@
     <ClCompile Include="overlay\imgui\imgui_widgets.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="utils\operations\FileOperations.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="overlay\overlay.h">
@@ -72,6 +75,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="overlay\Console\debugConsole.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\operations\FileOperations.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
